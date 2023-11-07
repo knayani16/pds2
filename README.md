@@ -1,1 +1,1 @@
-# pds2
+In the first question, we were asked to look for missing values and impute them with the mean, mode, or median. Since it is not possible to find the mean or median value for categorical values, I have replaced the missing values with the "mode" value, i.e., the most frequently occurring value. "New_price" is the only column with missing values, and it is categorical data, so all the missing values in this column have been replaced with "mode" value.
